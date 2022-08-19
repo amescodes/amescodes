@@ -4,7 +4,7 @@
         <img src="https://img.shields.io/twitter/follow/amescodes?logo=twitter&amp;style=for-the-badge" alt="follow ames on twitter">
     </a>
     <br/>
-    <a href="https://linkedin.com/in/ahardt49" target="blank">
+    <a href="https://linkedin.com/in/amescodes" target="blank">
         <img src="https://img.shields.io/badge/linkedin-connect-blue?style=for-the-badge&logo=linkedin" alt="connect with ames on linkedin">
     </a>
     
