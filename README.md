@@ -1,6 +1,5 @@
 
 <h3 align="center">a m e s&nbsp;&nbsp;&nbsp;&nbsp;c o d e s</h3>
-<br/>
 <h3 align="left">languages + tools:</h3>
 <div align="left">
     <img width="40" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/>
