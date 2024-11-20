@@ -1,19 +1,6 @@
 
 <h3 align="center">a m e s&nbsp;&nbsp;&nbsp;&nbsp;c o d e s</h3>
-<p align="center">
-    <a href="https://twitter.com/amescodes" target="blank">
-        <img src="https://img.shields.io/twitter/follow/amescodes?style=for-the-badge&logo=x" alt="follow ames on X (formerly twitter)" >
-    </a>
-    <br/>
-    <a href="https://bsky.app/profile/ames.codes" target="blank">
-        <img src="https://img.shields.io/badge/FOLLOW%20%40ames.codes-white?style=for-the-badge&logo=bluesky" alt="follow ames on blue sky">
-    </a>
-    <br/>
-    <a href="https://linkedin.com/in/amescodes" target="blank">
-        <img src="https://img.shields.io/badge/linkedin-connect-blue?style=for-the-badge&logo=linkedin" alt="connect with ames on linkedin">
-    </a>
-    
-</p>
+<br/>
 <h3 align="left">languages + tools:</h3>
 <div align="left">
     <img width="40" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/>
